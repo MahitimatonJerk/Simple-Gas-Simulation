@@ -1,5 +1,12 @@
 # Simple-Gas-Simulation
 
+# Consider
+- Thermodynamics
+  - Boltzmann
+- Kinetic Theory
+  - Maxwell Boltzmann Distribution
+
+
 ![MAPPING](image/IdeaGas.png)
 
 ![MAPPING](image/IdeaGas2.png)
