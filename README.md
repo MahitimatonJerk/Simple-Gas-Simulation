@@ -1,5 +1,5 @@
 # Simple-Gas-Simulation
-![MAPPING](Image/IdeaGas.png)
+![MAPPING](image/IdeaGas.png)
 
 Credit frist version  (Pippone Francone | franconepippone) :  https://github.com/franconepippone/simple-gas-sim
 
