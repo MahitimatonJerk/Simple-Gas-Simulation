@@ -12,6 +12,7 @@
 
   - Maxwell Boltzmann Distribution
 
+# Result 
 
 ![MAPPING](image/IdeaGas.png)
 
