@@ -4,7 +4,11 @@
 - Thermodynamics
   - Boltzmann
 - Kinetic Theory
+
+
 ![MAPPING](image/Maxwell-Boltzmann-Distribution.png)
+
+
   - Maxwell Boltzmann Distribution
 
 
