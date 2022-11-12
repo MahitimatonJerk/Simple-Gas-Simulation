@@ -1,4 +1,5 @@
 # Simple-Gas-Simulation
+
 ![MAPPING](image/IdeaGas.png)
 
 ![MAPPING](image/IdeaGas2.png)
@@ -8,6 +9,6 @@ Credit frist version  (Pippone Francone | franconepippone) :  https://github.com
 
 
 # :star: Update now
--  ***[12/11/22]*** none
+-  ***[12/11/22]*** None
 # :hankey: Bug and Problems
--  ***[12/11/22]*** Cannot search for or play using song name
+-  ***[12/11/22]*** It cannot show some pattern in object
