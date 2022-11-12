@@ -8,6 +8,7 @@
 
 ![MAPPING](image/Maxwell-Boltzmann-Distribution.png)
 
+###### (refer image : https://physics.stackexchange.com/questions/688607/why-does-the-shape-of-maxwell-boltzmann-distribution-depends-on-temperature-but)
 
   - Maxwell Boltzmann Distribution
 
