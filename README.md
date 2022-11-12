@@ -1,5 +1,3 @@
-# Simple-Gas-Simulation
-
 # Consider
 - Thermodynamics
   - Boltzmann
@@ -12,7 +10,7 @@
 
   - Maxwell Boltzmann Distribution
 
-# Result 
+# Result in Simple-Gas-Simulation
 
 ![MAPPING](image/IdeaGas.png)
 
